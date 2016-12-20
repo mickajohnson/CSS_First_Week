@@ -1,0 +1,66 @@
+body {
+  width: 1300px;
+}
+
+.labels {
+  color: red;
+}
+
+#group {
+  color: red;
+  width: 40px;
+  display: inline-block;
+  margin: 5px 33px 15px 5px;
+  vertical-align: top;
+}
+
+#top-labels {
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 10px;
+}
+
+#top-labels li{
+  margin-right: 40px;
+}
+
+#side-labels {
+  display: inline-block;
+  vertical-align: top;
+  width: 40px;
+  margin-left: 15px;
+}
+
+#side-labels ul{
+  display: inline-block;
+}
+
+#side-labels li {
+  margin-bottom: 35px;
+}
+
+.element {
+  height: 55px;
+  width: 55px;
+  display: inline-block;
+}
+
+.blue_elements div{
+  border: 1px solid black;
+}
+
+.blue_elements {
+  width: 55px;
+  display: inline-block;
+}
+
+.element p{
+  display: block;
+  margin-bottom: 0px;
+  font-size: .75em;
+}
+
+body .element_name {
+  color: blue;
+  font-size: 1.3em;
+}
